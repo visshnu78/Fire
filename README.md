@@ -2,6 +2,11 @@
 
 Fire is an Android app that blocks the endless-scroll parts of Instagram and YouTube while a lock timer runs. When the timer ends, everything unlocks on its own.
 
+## Download
+**[Download Fire.apk](apk/Fire.apk?raw=true)** and open it on your Android phone.
+Android will ask you to allow installing apps from your browser or file manager the first time.
+This is a debug build signed with a development key, made for personal use.
+
 ## What it blocks during a lock
 - **Instagram Reels** (the Reels tab, and reels opened from DMs or profiles)
 - **YouTube Shorts**
