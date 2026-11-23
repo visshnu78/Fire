@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fire</string>
+    <string name="service_label">Fire blocker</string>
+    <string name="service_description">While a Fire lock is running, this kicks you out of Instagram Reels, YouTube Shorts and YouTube videos. DMs, search and everything else keep working. It only acts on Instagram and YouTube (including ReVanced/RVX builds) and stores nothing.</string>
+</resources>
